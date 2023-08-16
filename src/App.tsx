@@ -5,7 +5,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Test text</h1>
+      <h1>I'm created for project on typescript</h1>
+        <h2>Homework00 Done!</h2>
     </div>
   );
 }
